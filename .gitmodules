@@ -1,6 +1,3 @@
-[submodule "client"]
-	path = client
-	url = https://github.com/CMvvvt/news-app-react-express-frontend
-[submodule "news-app-react-express-frontend"]
-	path = news-app-react-express-frontend
-	url = https://github.com/CMvvvt/news-app-react-express-frontend
+[submodule "react-express-news-frontend"]
+	path = react-express-news-frontend
+	url = https://github.com/CMvvvt/react-express-news-frontend.git
