@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 [submodule "client"]
 	path = client
 	url = ./client
+=======
+[submodule "react-express-news-frontend"]
+	path = react-express-news-frontend
+	url = https://github.com/CMvvvt/react-express-news-frontend.git
+>>>>>>> 324dc87e69ec048c57f08e8c8abfd601a6c65c29
